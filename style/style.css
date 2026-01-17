@@ -285,6 +285,7 @@ margin: 0px auto;
   line-height: 20px;
   font-weight: 500;
   gap: 6px;
+  list-style: none;
 }
   
 .check-icon{
